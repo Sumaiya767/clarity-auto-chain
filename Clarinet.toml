@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/vehicle-registry.clar"
 depends_on = []
 
+[contracts.vehicle-transfer]
+path = "contracts/vehicle-transfer.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
